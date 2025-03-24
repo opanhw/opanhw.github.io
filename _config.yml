@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Haowen Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master student at University of Science and Technology of China"
   location         : "Hefei, AnHui, China"
-  employer         : "University of Science\n and Technology of China"
+  employer         : # "University of Science and Technology of China"
   uri              : # URL
   email            : "phw1129@mail.ustc.edu.cn" 
 
