@@ -22,7 +22,7 @@ repository               : "opanhw/opanhw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "self_profile.png"
   name             : "Haowen Pan"
   pronouns         : # example: "she/her"  
   bio              : "MS student at University of Science and Technology of China"
