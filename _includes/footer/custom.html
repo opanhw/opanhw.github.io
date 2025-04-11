@@ -1,21 +1,3 @@
 <!-- start custom footer snippets -->
-<body>
-    <div class="counter-container">Page Views: <span id="counter">0</span></div>
 
-    <script>
-        const counterElement = document.getElementById('counter');
-
-        fetch('https://hitcounter.pythonanywhere.com/count', {
-            credentials: 'include'
-        })
-            .then(response => response.text())
-            .then(count => {
-                counterElement.textContent = count;
-            })
-            .catch(error => {
-                console.error('获取计数失败:', error);
-                counterElement.textContent = 'Error';
-            });
-    </script>
-</body>
 <!-- end custom footer snippets -->
