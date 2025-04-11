@@ -3,16 +3,13 @@
     <div class="counter-container">Page Views: <span id="counter">0</span></div>
 
     <script>
-        // 获取计数器元素
         const counterElement = document.getElementById('counter');
 
-        // 调用 hitcounter API
         fetch('https://hitcounter.pythonanywhere.com/count', {
-            credentials: 'include' // 保留官方代码中的凭据设置
+            credentials: 'include'
         })
             .then(response => response.text())
             .then(count => {
-                // 将计数显示在页面上
                 counterElement.textContent = count;
             })
             .catch(error => {
