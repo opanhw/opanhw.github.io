@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I am a Master student at [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunately advised by [Prof. Xun Yang](https://faculty.ustc.edu.cn/yangxun/) and also work closely with [Prof. Yixin Cao](https://taominer.github.io/). Previously, I received my B.S. in [Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm) from University of Science and Technology of China in 2023.
+I am a PhD student at [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunately advised by [Prof. Xun Yang](https://faculty.ustc.edu.cn/yangxun/) and also work closely with [Prof. Yixin Cao](https://taominer.github.io/). Previously, I received my B.S. in [Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm) from University of Science and Technology of China in 2023.
 
 My research interest lies in natural language processing, multi-modal information processing and model interpretability. The research directions I am fascinated in and working on include:
 1. **Understanding (Multi-modal) Large Lanaguge Models** (Mechanistic Interpretability, etc.)
