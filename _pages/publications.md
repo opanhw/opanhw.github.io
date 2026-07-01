@@ -9,6 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## Conferences
 
 ### 2026
+* **Haowen Pan**, Xun Yang, Rong Dai, Yonggang Zhang, Ming Pei, Tongliang Liu, Bo Han. Securing System Prompts from Unauthorized Leakage in Third-Party LLM Services. [\[pdf\]](https://opanhw.github.io/Surf-Guard/static/pdfs/manuscript.pdf) [\[code\]](https://github.com/opanhw/surf-guard-code)
 * Xun Yang, **Haowen Pan**, Xiaozhi Wang, Yixin Cao, Juanzi Li, Meng Wang. FiNE: Fine-grained Neuron-level Model Editing for Reliable and Safe LLMs. _TPAMI 2026_ [\[pdf\]](https://opanhw.github.io/fine-unified-editing/static/pdfs/manuscript.pdf) [\[code\]](https://github.com/opanhw/fine-unified-editing-code)
 
 ### 2025
