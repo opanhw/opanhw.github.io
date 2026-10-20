@@ -9,6 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## Conferences
 
 ### 2026
+* **Haowen Pan<sup>†</sup>**, Pengyang Shao<sup>†</sup>, Yunshan Ma, Yanzheng Jin, Naixin Zhai, Xiang Wang, Xun Yang. MemForm: Benchmarking Memory Formation Poisoning in LLM Agents. [\[pdf\]](https://arxiv.org/pdf/2610.14431) [\[code\]](https://github.com/opanhw/memform-code)
 * **Haowen Pan**, Xun Yang, Rong Dai, Yonggang Zhang, Ming Pei, Tongliang Liu, Bo Han. Securing System Prompts from Unauthorized Leakage in Third-Party LLM Services. [\[pdf\]](https://opanhw.github.io/SurF-Guard/static/pdfs/manuscript.pdf) [\[code\]](https://github.com/opanhw/surf-guard-code)
 * Xun Yang, **Haowen Pan**, Xiaozhi Wang, Yixin Cao, Juanzi Li, Meng Wang. FiNE: Fine-grained Neuron-level Model Editing for Reliable and Safe LLMs. _TPAMI 2026_ [\[pdf\]](https://opanhw.github.io/fine-unified-editing/static/pdfs/manuscript.pdf) [\[code\]](https://github.com/opanhw/fine-unified-editing-code)
 
