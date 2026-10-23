@@ -8,10 +8,14 @@ redirect_from:
 
 I am a PhD student at [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunately advised by [Prof. Xun Yang](https://faculty.ustc.edu.cn/yangxun/) and also work closely with [Prof. Yixin Cao](https://taominer.github.io/) and [Dr. Pengyang Shao](https://shaopengyang.github.io/). Previously, I received my B.S. in [Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm) from University of Science and Technology of China in 2023.
 
-My research interest lies in natural language processing, multi-modal information processing and model interpretability. The research directions I am fascinated in and working on include:
+My research interest lies in natural language processing, multi-modal information processing, model interpretability and llm safety. The research directions I am fascinated in and working on include:
 1. **Understanding (Multi-modal) Large Lanaguge Models** (Mechanistic Interpretability, etc.)
    * How to understand the inner workings of large language models and how can the findings fundamentally help improve large language models in downstream tasks.
    * Projects: [Multi-modal Neurons](https://github.com/opanhw/MM_Neurons), [Neuron-level Knowledge Editing](https://github.com/opanhw/FiNE)
+  
+2. **Safety and Security of Large Language Models** (Agent Memory Security, System Prompt Protection, etc.)
+   * Investigating security vulnerabilities and safety risks in LLM systems, with a focus on memory formation and system prompt confidentiality, to improve their reliability, robustness, and trustworthiness.
+   * Projects: [MemForm](https://github.com/opanhw/memform-code)
 
 ## Publications
 
